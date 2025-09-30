@@ -5,7 +5,7 @@ Understand password strength, test with online tools, and document best practice
 
 ## Steps
 1. Created multiple passwords with different complexities.
-2. Tested them on passwordmeter.com & noted results.
+2. Tested them on Kaspersky Password Checker.com & noted results.
 3. Recorded feedback and identified best practices.
 4. Researched password attacks.
 
